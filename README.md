@@ -1,6 +1,6 @@
 # addiction tracker
 
-a tool written in python to keep track of addictions, urges, and relapses\
+a tool written in python to keep track of addictions, urges, and relapses
 
 this is the **public** release. code will not function unless you add your *own* firebase realtime database url.
 
@@ -63,7 +63,8 @@ addiction-tracker-main/
 
 ## disclaimer
 
-password data saved in the databased is securely hashed via [argon2](https://en.wikipedia.org/wiki/Argon2)
+data is collected and stored such as, usernames, chosen account addiction, & hashed password data
+password data saved in the database is securely hashed via [argon2](https://en.wikipedia.org/wiki/Argon2)
 
 ## license
 
