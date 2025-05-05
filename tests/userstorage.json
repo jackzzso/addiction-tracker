@@ -1,0 +1,23 @@
+{
+  "UUID1":{
+    "USERNAME":"usr1",
+    "HASH":"",
+    "TOKEN":"",
+    "ACCTYPE":"",
+    "TIMESTAMP":""
+  },
+  "UUID2":{
+    "USERNAME":"usr2",
+    "HASH":"",
+    "TOKEN":"",
+    "ACCTYPE":"",
+    "TIMESTAMP":""
+  },
+  "UUID3":{
+    "USERNAME":"usr3",
+    "HASH":"",
+    "TOKEN":"",
+    "ACCTYPE":"",
+    "TIMESTAMP":""
+  }
+}
