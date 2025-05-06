@@ -21,7 +21,7 @@ this is the **public** release. code will not function unless you add your *own*
 
 ## screenshots
 
-![Main UI](assets/mainui.png)
+![Main UI](assets/ui.png)
 
 ![Login UI](assets/loginui.png)
 
